@@ -21,11 +21,11 @@ V{
 
 
 .text-bg-primary{
-    background-color: #003d87 !important;
+    background-color: rgb(00, 82, 155) !important;
 }
 
-.tex-bg-secondary{
-    background-color: #003d87 !important;
+.text-bg-secondary{
+    background-color: rgba(00, 82, 155) !important;
  }
 
 
